@@ -54,6 +54,8 @@
 .highlight .ss { color: #90a959; }
 
 .header {
+  width: 70%;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between; /* puts space between title and nav */
   align-items: center; /* aligns items vertically */
