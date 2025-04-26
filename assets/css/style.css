@@ -53,7 +53,6 @@
 
 .highlight .ss { color: #90a959; }
 
-<<<<<<< HEAD:assets/css/style.css
 :root {
     --darkest-green: #132a13;
     --dark-green: #31572c;
@@ -137,34 +136,11 @@
     margin:1em 0 1em 0;
     color: var(--charcoal);
   }
-=======
-.header {
-  width: 70%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between; /* puts space between title and nav */
-  align-items: center; /* aligns items vertically */
-  padding: 1rem 2rem;
-}
-
-.header-title h1 {
-  margin: 0;
-}
-
-.main-menu {
-  list-style: none;
-  display: flex;
-  gap: 1rem; /* spacing between nav items */
-  margin: 0;
-  padding: 0;
-}
-
-.main-menu li a {
-  text-decoration: none;
-  color: inherit;
-  font-weight: 500;
-}
->>>>>>> f83412cc3ead9d4a6a8e0031b01d6ac6ff9562a1:_site/assets/css/style.css
+  
+  .header-title h1 {
+    margin: 0;
+  }
+  
 
 /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain)
 */
