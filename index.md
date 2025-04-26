@@ -1,24 +1,8 @@
 ---
 layout: default
-title: "Michaela Philip"
+# title: "Michaela Philip"
 permalink: /
 ---
-
-<!-- <header>
-    <nav>
-        <a href="/">Home</a>
-        <a href="/research">Research</a>
-        <a href="/teaching">Teaching</a>
-    </nav>
-</header> -->
-
-<!-- <div class='container'>
-  <div class='flex flex-row'>
-    Research
-    Teaching
-    Contact
-  </div>
-</div> -->
 
 <main class = 'about'>
     <div class='about-body'>
@@ -26,6 +10,6 @@ permalink: /
         <p>Mauris non leo elit. Sed id sem tincidunt turpis tincidunt tempor nec a diam. Proin posuere dui et est ornare tempor. Maecenas et tincidunt velit. Mauris et lobortis augue. Curabitur semper eros eu odio efficitur, et pulvinar lorem aliquet. Quisque vitae felis vel erat venenatis placerat. Vestibulum at nulla nibh. Morbi in eleifend ante.</p>
     </div>
     <div class='headshot'>
-        <img src="/avatar.jpg" alt='My headshot' object-position='right top'>
+        <img src="/avatar2.jpeg" alt='My headshot' object-position='right'>
     </div>
 </main>
