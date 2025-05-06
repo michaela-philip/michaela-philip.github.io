@@ -6,8 +6,9 @@ permalink: /
 
 <main class = 'about'>
     <div class='about-body'>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis urna eu nunc auctor tempor ut sit amet nibh. Nulla dictum fringilla condimentum. Donec placerat malesuada consectetur. Nam sed lacus sapien. Maecenas quis augue ultricies, imperdiet tellus id, viverra odio. Sed eget mauris sollicitudin tortor pellentesque dapibus imperdiet sit amet erat. Nulla sit amet gravida risus. Duis luctus leo in lorem posuere, at efficitur dui luctus. Proin ut bibendum justo, eget pharetra metus. Cras quis turpis quis tortor ultrices cursus. Phasellus condimentum elit sit amet consectetur bibendum. Quisque ut ipsum at odio molestie mattis. Fusce ac posuere urna, vitae condimentum diam.</p>
-        <p>Mauris non leo elit. Sed id sem tincidunt turpis tincidunt tempor nec a diam. Proin posuere dui et est ornare tempor. Maecenas et tincidunt velit. Mauris et lobortis augue. Curabitur semper eros eu odio efficitur, et pulvinar lorem aliquet. Quisque vitae felis vel erat venenatis placerat. Vestibulum at nulla nibh. Morbi in eleifend ante.</p>
+        <p>I am a PhD candidate in Economics at Emory University in Atlanta, GA. My research focuses on diverging health and economic outcomes and the policies, both historical and modern, that shape them. I received my B.S. from the University of Alabama at Birmingham in 2022, where I majored in Public Health and minored in Economics and Mathematics. My background in public health informs my pursuits in Health Economics, Urban Economics, and Economic History. My current work focuses on the impact of race on highway placement by utilizing plausibly exogenous zoning policies.</p>
+        <p>Outside of research, I enjoy being outside, going to concerts, and playing music. On any given weekend, I'm likely to be making drinks for my friends, working on a household project, or having my heart broken by an Atlanta sports team.</p>
+        <p>Please feel free to reach out to me using any of the links at the bottom of the page and click on the speaker at the top of the page to hear the pronounciation of my name!</p>
     </div>
     <div class='headshot'>
         <img src="/avatar2.jpeg" alt='My headshot' object-position='right'>
