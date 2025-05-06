@@ -10,12 +10,8 @@ permalink: /teaching
     </div>
     <div class = 'body'>
         <div class = 'project'>
-            <h3>Project 1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis urna eu nunc auctor tempor ut sit amet nibh. Nulla dictum fringilla condimentum.</p>
-        </div>
-        <div class = 'project'>
-            <h3>Project 2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis urna eu nunc auctor tempor ut sit amet nibh. Nulla dictum fringilla condimentum.</p>
+            <h3>Summer Opportunity for Academic Research (SOAR)</h3>
+            <p>I am the lead instructor for students in the Humanistic Social Sciences participating in Emory's <a href="https://gs.emory.edu/diversity/programming/lgs-soar/index.html" LGS-SOAR> program. I virtually instruct undergraduates across the country and cover topics such as academic ethics, research methods, and preparing for graduate school. Please come back at another time to see my slides. </a></p>
         </div>
     </div>
 </main>
