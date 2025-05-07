@@ -70,8 +70,7 @@
   }
 
   header h1 { font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; 
-    font-size: 48px; 
-    font-weight: 900; 
+    font-size: 400%; 
     line-height: 1.2; 
     color:var(--darkest-green); 
     letter-spacing: -1px;
@@ -98,15 +97,16 @@
   .main-menu {
     list-style: none;
     display: flex;
-    gap: 4rem; /* spacing between nav items */
+    gap: 30%; /* spacing between nav items */
     margin: 0;
     padding: 0;
+    justify-content: right; /* centers the nav items */
   }
   
   .main-menu li a {
     text-decoration: none;
     color: var(--darkest-green);
-    font-weight: 900;
+    font-size: 125%;
     list-style-type: none;
   }
 
@@ -145,7 +145,20 @@
     color: var(--charcoal);
   }
 
+  .headshot {
+    max-width: 100%;
+    height: auto;
+    margin: 0 2%;
+    display: block;
+    background-size: contain;
+  }
   
+  .headshot img {
+    width: 100%; /* Make the image responsive */
+    max-width: 100%; /* Prevent the image from exceeding the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove inline spacing issues */
+}
 
 /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain)
 */
@@ -297,6 +310,9 @@ footer a:hover { color: var(--dark-green); }
   #download-zip, #download-tar-gz { display: none; }
   .inner { width: 94%; margin: 0 auto; }
   ul li { margin-left: 10px; padding-left: 10px; }
-  ol li { margin-left: 10px; } }
+  ol li { margin-left: 10px; } 
+  .headshot img {
+    max-width: 100%; /* Ensure it fits within the container on smaller screens */
+}}
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
