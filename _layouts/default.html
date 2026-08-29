@@ -20,24 +20,58 @@
 
         <header>
           <div class = "header">
-          <div class = "header-text">
-            <div class = "header-title" >
-              <!-- <h1>{{ page.title | default: 'site.title' | default: "Michaela Philip" }}</h1> -->
-              <h1>Michaela Philip</h1>
-              <a href="https://ipa-reader.com/?text=m%C9%AA%CA%82e%C9%AAl%C3%A4%20%CB%88f%C9%AAl%C9%AAp" target="_blank" title="IPA Reader">
-                <i class="fa fa-volume-up" aria-hidden="true" style = "font-size: 150%" target="_blank"></i>
-              </a>         
+            <div class = "header-text">
+              <div class = "header-title" >
+                <!-- <h1>{{ page.title | default: 'site.title' | default: "Michaela Philip" }}</h1> -->
+                <h1>Michaela Philip</h1>
+                <a href="https://ipa-reader.com/?text=m%C9%AA%CA%82e%C9%AAl%C3%A4%20%CB%88f%C9%AAl%C9%AAp" target="_blank" title="IPA Reader">
+                  <i class="fa fa-volume-up" aria-hidden="true" style = "font-size: 150%" target="_blank"></i>
+                </a>
+
+                <!-- SWAP-IN READY: self-hosted pronunciation audio, once recorded.
+                     To switch over:
+                       1. Add the recording at assets/audio/name-pronunciation.mp3
+                       2. Delete (or comment out) the <a href="https://ipa-reader.com/...">...</a> block above
+                       3. Uncomment the block below
+                       4. Add the CSS block below to assets/css/style.css (near .header-title, so it matches the current link's grey / dark-green hover look)
+
+                <button type="button" class="pronounce-btn" title="Hear name pronunciation" aria-label="Hear pronunciation of my name">
+                  <i class="fa fa-volume-up" aria-hidden="true" style="font-size: 150%"></i>
+                </button>
+                <audio id="name-audio" src="/assets/audio/name-pronunciation.mp3" preload="none"></audio>
+                <script>
+                  document.querySelector('.pronounce-btn').addEventListener('click', function () {
+                    document.getElementById('name-audio').play();
+                  });
+                </script>
+
+                CSS to add to assets/css/style.css:
+
+                .pronounce-btn {
+                  background: none;
+                  border: none;
+                  padding: 0;
+                  margin: 0;
+                  cursor: pointer;
+                  color: grey;
+                  font: inherit;
+                  line-height: 1;
+                }
+                .pronounce-btn:hover {
+                  color: var(--dark-green);
+                }
+                -->
+              </div>
+              <div class = "header-navigation">
+                <nav> 
+                  <ul class="main-menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/research">Research</a></li>
+                    <li><a href="/teaching">Teaching</a></li>
+                  </ul>
+                </nav>
+              </div>
             </div>
-            <div class = "header-navigation">
-              <nav> 
-                <ul class="main-menu">
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/research">Research</a></li>
-                  <li><a href="/teaching">Teaching</a></li>
-                </ul>
-              </nav>
-            </div>
-          </div>
           </div>
         </header>
         <section id="downloads" class="clearfix">
