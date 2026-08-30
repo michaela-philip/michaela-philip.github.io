@@ -93,8 +93,8 @@
     text-decoration: none;
     color: var(--darkblue);
     font-family: var(--font-body);
-    font-weight: 600;
-    font-size: 0.9rem;
+    font-weight: 900;
+    font-size: 1.1rem;
     letter-spacing: 0.04em;
     text-transform: uppercase;
     padding-bottom: 4px;
@@ -213,7 +213,7 @@
   .term {
     font-family: var(--font-body);
     font-size: 0.85rem;
-    font-weight: 600;
+    font-weight: 900;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--neutral-600);
