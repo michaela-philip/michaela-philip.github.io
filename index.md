@@ -6,7 +6,7 @@ permalink: /
 
 <main class = 'about'>
     <div class='about-body'>
-        <p>I am a PhD candidate in Economics at Emory University in Atlanta, GA on the job market in 2026-2027. My research focuses on diverging health and economic outcomes and the policies, both historical and modern, that shape them. I received my B.S. in Public Health from the University of Alabama at Birmingham in 2022, where I also minored in Economics and Mathematics. My background in public health informs my pursuits in Health Economics, Urban Economics, and Economic History. My current work focuses on the disparate impacts of 20th century zoning policies.</p>
+        <p>I am a PhD candidate in Economics at Emory University in Atlanta, GA. My research focuses on diverging health and economic outcomes and the policies, both historical and modern, that shape them. I received my B.S. in Public Health from the University of Alabama at Birmingham in 2022, where I also minored in Economics and Mathematics. My background in public health informs my pursuits in Health Economics, Urban Economics, and Economic History. My current work focuses on the disparate impacts of 20th century zoning policies.</p>
         <p>Outside of research, I enjoy being outside, going to concerts, and playing music. On any given weekend, I'm likely to be making drinks for my friends, working on a household project, or having my heart broken by an Atlanta sports team.</p>
         <p>Please feel free to reach out to me using any of the links at the bottom of the page and click on the speaker at the top of the page to hear the pronunciation of my name!</p>
     </div>
